@@ -12,4 +12,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- Tailwind CSS (https://tailwindcss.com/) - CSS framework
+- Tailwind CSS (https://tailwindcss.com/) 
